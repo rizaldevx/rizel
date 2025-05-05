@@ -6,4 +6,4 @@
 
 
 
-<p><a href="https://www.example.com" target="_blank"></p>
+<a href="https://www.example.com" target="_blank">
