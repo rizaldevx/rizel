@@ -1,5 +1,5 @@
 <h1>all payment rizal-dev</h1>
-<h2>Sub Judul (H2) Ada di Sini </h2>
+<h2> terimakasih telah order </h2>
 
 <ol>
   <li>Pertama, screenshot gambar Qris di bawah.</li>
