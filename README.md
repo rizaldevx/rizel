@@ -1,6 +1,6 @@
 <ol>
   <li>Pertama, screenshot gambar Qris di bawah.</li>
-  <li>Klik tombol <strong>Dashboard</strong> di samping website Anda.</li>
+  <li>buka aplikasi <strong>Dana/gopay dll</strong> di samping website Anda.</li>
   <li>Di bagian dashboard, temukan dan pilih <strong>File Manager</strong>.</li>
 </ol>
 
