@@ -1,9 +1,6 @@
 <ol>
   <li>Pertama, screenshot gambar Qris di bawah.</li>
   <li>buka aplikasi <strong>Dana/gopay dll</strong> .</li>
-  <li>Di bagian pindai/scan,>.</li>
-</ol>
-
 
 
 <a href="https://www.example.com" target="_blank">
