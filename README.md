@@ -5,8 +5,7 @@
   <li>Pertama, screenshot gambar Qris di bawah.</li>
   <li>buka aplikasi <strong>Dana/gopay dll</strong> .</li>
 
-
-<a href="https://whatsapp.com/channel/0029Vaw0AGCEQIarHspllG1i="">
+"">
 
 
 
