@@ -5,7 +5,6 @@
   <li>Pertama, screenshot gambar Qris di bawah.</li>
   <li>buka aplikasi <strong>Dana/gopay dll</strong> .</li>
 
-"">
 
 
 
