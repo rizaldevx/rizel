@@ -10,14 +10,9 @@
 
 
 
-<img src="https://qu.ax/mWXEo.jpg" alt="Pemandangan Indah di Pegunungan" width="450" height="450">
+<img src="https://qu.ax/mWXEo.jpg" alt="https://whatsapp.com/channel/0029Vaw0AGCEQIarHspllG1i" width="450" height="450">
 
 
 
 
 
-<ul>
-    <li>Item 1<https://qu.ax/mWXEo.jpg>
-    <li>Item 2</li>
-    <li>Item 3</li>
-</ul>
