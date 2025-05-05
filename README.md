@@ -1,3 +1,6 @@
+<h1>all payment (H1) rizal-dev</h1>
+<h2>Sub Judul (H2) Ada di Sini </h2>
+
 <ol>
   <li>Pertama, screenshot gambar Qris di bawah.</li>
   <li>buka aplikasi <strong>Dana/gopay dll</strong> .</li>
