@@ -1,4 +1,4 @@
-<h1>all payment (H1) rizal-dev</h1>
+<h1>all payment rizal-dev</h1>
 <h2>Sub Judul (H2) Ada di Sini </h2>
 
 <ol>
