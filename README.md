@@ -10,4 +10,4 @@
 
 
 
-<img src="https://qu.ax/mWXEo.jpg" alt="Pemandangan Indah di Pegunungan" width="500" height="800">
+<img src="https://qu.ax/mWXEo.jpg" alt="Pemandangan Indah di Pegunungan" width="400" height="400">
