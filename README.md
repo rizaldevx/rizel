@@ -1,5 +1,5 @@
 <ol>
-  <li>Pertama, buka hPanel dan pilih menu website.</li>
+  <li>Pertama, screenshot gambar Qris di bawah.</li>
   <li>Klik tombol <strong>Dashboard</strong> di samping website Anda.</li>
   <li>Di bagian dashboard, temukan dan pilih <strong>File Manager</strong>.</li>
 </ol>
