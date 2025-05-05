@@ -7,3 +7,7 @@
 
 
 <a href="https://www.example.com" target="_blank">
+
+
+
+<img src="gambar-pemandangan.jpg" alt="Pemandangan Indah di Pegunungan" width="300" height="200">
