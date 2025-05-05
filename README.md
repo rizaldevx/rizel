@@ -1,1 +1,5 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j_xDNFrDl7A?si=vdcMihS00hIYOY8-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<ol>
+  <li>Pertama, buka hPanel dan pilih menu website.</li>
+  <li>Klik tombol <strong>Dashboard</strong> di samping website Anda.</li>
+  <li>Di bagian dashboard, temukan dan pilih <strong>File Manager</strong>.</li>
+</ol>
