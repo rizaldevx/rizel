@@ -16,8 +16,8 @@
 
 
 
-
-<img src="https://imagedelivery.net/LqiWLm-3MGbYHtFuUbcBtA/b2d70090-d139-422e-a50d-f6b27384a600/public" alt="Contoh Gambar" class="gambar-hover">
-
-</body>
-</html>
+<ul>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+</ul>
