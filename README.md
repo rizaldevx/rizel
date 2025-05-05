@@ -6,4 +6,4 @@
 
 
 
-<p>Dalam contoh ini, kami menambahkan <a href="https://www.example.com" target="_blank">link dalam teks</a> yang bisa diklik dan mengarah ke halaman lain.</p>
+<p><a href="https://www.example.com" target="_blank"></p>
