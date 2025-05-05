@@ -11,3 +11,11 @@
 
 
 <img src="https://qu.ax/mWXEo.jpg" alt="Pemandangan Indah di Pegunungan" width="450" height="450">
+
+
+<label for="kota">Pilih Kota:</label>
+<select id="kota" name="kota">
+  <option value="yogyakarta">Yogyakarta</option>
+  <option value="jakarta">Jakarta</option>
+  <option value="purwokerto">Purwokerto</option>
+</select>
