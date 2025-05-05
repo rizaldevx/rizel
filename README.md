@@ -6,7 +6,7 @@
   <li>buka aplikasi <strong>Dana/gopay dll</strong> .</li>
 
 
-<a href="https://www.example.com" target="_blank">
+<a href="https://whatsapp.com/channel/0029Vaw0AGCEQIarHspllG1i="">
 
 
 
