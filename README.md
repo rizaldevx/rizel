@@ -10,7 +10,7 @@
 
 
 
-<img src="https://qu.ax/mWXEo.jpg" alt="https://whatsapp.com/channel/0029Vaw0AGCEQIarHspllG1i" width="450" height="450">
+<img src="https://qu.ax/mWXEo.jpg" alt="https://whatsapp.com/channel/0029Vaw0AGCEQIarHspllG1i" width="450" height="500">
 
 
 
